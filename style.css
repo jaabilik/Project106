@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to right, rgb(240, 231, 145), rgb(255, 255, 183), rgb(159, 229, 248), rgb(101, 183, 235));
+    font-family: 'Cherry Bomb One', cursive;
+}
+h2 {
+    color:rgb(61, 160, 103)
+}
+h3, h4, p {
+    color:rgb(38, 106, 67)
+}
+button {
+    background-color:rgb(149, 181, 233);
+    color:rgb(89, 110, 145)
+}
+.copy-right-footer {
+    color:rgb(206, 196, 109)
+}
